@@ -1,0 +1,9 @@
+// Build settings shared by every configuration.
+//
+// To build on your own device, copy Local.xcconfig.example to Local.xcconfig (gitignored)
+// and set your Apple Developer team ID and a bundle identifier you own.
+
+PRODUCT_BUNDLE_IDENTIFIER = com.example.NocHKSync
+DEVELOPMENT_TEAM =
+
+#include? "Local.xcconfig"

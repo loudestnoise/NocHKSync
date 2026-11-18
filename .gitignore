@@ -1,0 +1,8 @@
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+.DS_Store
+
+# Personal signing settings
+Local.xcconfig
