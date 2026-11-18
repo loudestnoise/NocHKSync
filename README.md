@@ -4,6 +4,12 @@ NocHKSync is a small iPhone app that copies your **steps** and **heart rate** fr
 
 It is a personal, single-purpose tool. It has no accounts, no analytics, and no third-party services. Data goes straight from your phone to the Nocturne server you point it at.
 
+## Screenshots
+
+| Connect to Nocturne, grant Health access, and sync | The app icon on the home screen |
+| :---: | :---: |
+| ![Main screen: Nocturne address and token, Apple Health permission, sync window, and last sync result](docs/screenshots/main.png) | ![Home screen showing the NocHKSync icon: the Nocturne logo with a heart and a shoe](docs/screenshots/home-screen.png) |
+
 ## What is Nocturne?
 
 [Nocturne](https://getnocturne.dev) is an open-source diabetes data platform developed under the [Nightscout](https://nightscout.github.io) GitHub organization ([source](https://github.com/nightscout/nocturne)). Nightscout is the long-running community project for getting continuous glucose monitor (CGM) data into the cloud. Nocturne is a ground-up rewrite of the Nightscout server:
